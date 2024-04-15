@@ -5,7 +5,7 @@
     Hi, I'm Biagio Caputo a Junior Full-stack Web Developer!
 </h1>
 <h3>
-    🚀 Full Stack Web Developer 🌐 | Passionately coding my way through a 6-month journey with over 700 hours of dedication and crafting 60+ projects. 🛠️ | Turning ideas into interactive web experiences. 🎨 | Welcome to my world of creativity and code! Let's build something amazing together. 💻✨
+    🚀 Jr Full Stack Web Developer 🌐 && Passionately coding my way through a 6-month journey with over 700 hours of dedication and crafting 60+ projects. 🛠️ && Trying to reinvent myself, transitioning from working as a waiter to becoming a programmer. 🎨 && Welcome to this new adventure of mine in the world of coding, follow me to stay updated and support me! Let's build something amazing together. 💻✨
 </h3>
 </br>
 
